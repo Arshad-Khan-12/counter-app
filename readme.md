@@ -30,10 +30,13 @@ To run the counter app locally:
 
 ## Preview
 
-![Counter App Preview](counter-preview.png)
+![Counter App Preview](https://github.com/Arshad-Khan-12/counter-app/assets/121614052/87017db2-bc1b-48aa-b606-78bd1100edc6)
+![Counter App Preview](https://github.com/Arshad-Khan-12/counter-app/assets/121614052/4c9f4563-7bd7-4dd6-bdcf-b1adc907ba01)
+![image](https://github.com/Arshad-Khan-12/counter-app/assets/121614052/c8d5e26c-7d4c-4710-8fc2-f8d8dd601f1f)
+
 
 ## Live Demo
 
-You can view a live demo of the counter app [here](#).
+You can view a live demo of the counter app [here](https://counter-reactjs-app2.netlify.app/).
 
 
